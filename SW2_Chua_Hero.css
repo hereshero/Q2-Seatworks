@@ -1,0 +1,44 @@
+body{
+    border-style: dotted;
+    border-color: #E5D9B6;
+    border-width: 10px;
+    background-color: #A4BE7B;
+
+}
+
+.Div1 {
+    padding: 10px 10px 10px;
+    margin-left: 40px;
+}
+
+.Div2 {
+    padding: 10px 10px 10px;
+    margin-left: 40px;
+}
+
+.Div3 {
+    padding: 10px 10px 10px;
+    margin-left: 40px;
+}
+h1{
+	font-family: sans-serif;
+	color: #000000;
+    letter-spacing: 7px;
+}
+ul{
+   font-family: Arial;
+   color: #285430;
+}
+img{
+    height:300px ;
+    width: 300px;
+    opacity: .50;
+    padding: 15px;
+    border-radius: 50px;
+   
+  
+}
+img:hover{
+    opacity: 1;
+}
+
